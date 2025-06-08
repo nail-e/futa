@@ -1,14 +1,12 @@
-# futa
- futa: A (Functionally) Useless Terminal Assistant - powered by AI!
+# futa: (*F*unctionally) *U*seless *T*erminal *A*ssistant
+Powered by qwen3!
+**WARNING: Please don't use futa irresponsibly. It's highly recommended to run futa on a VM just because of the unpredictability of the commands it generates.**
 
 💩 Are you tired of knowing what you're doing in the terminal? Want to add ✨chaos✨ to your workflow?
 🧠 Introducing: futa — the Functionally Useless Terminal Assistant that runs a MASSIVE 🤯 LANGUAGE MODEL 🧠 to execute the tiniest of commands for you!
 Because why just type ls when you can launch a rocket 🚀 of AI processing to tell you to type ls? 🤷‍♂️💸
 
 🛠️ How It Works
-bash
-Copy
-Edit
 futa <command>
 You type literally anything 🤌
 
@@ -33,9 +31,7 @@ futa "make it go brrr"
 📦 Features
 🤖 Uses more compute power than the Apollo missions to run git status
 
-🎭 Responds with overconfident energy, even when it’s dead wrong
-
-💫 Random Easter eggs because why not
+🎭 Responds with overconfident energy like your Tech Bro friend, even when it’s dead wrong
 
 🧵 Outputs at least 3 paragraphs of explanation before running a 1-line command
 
@@ -47,16 +43,12 @@ Copy
 Edit
 pip install futa  # or don't. You probably shouldn't.
 🚧 Disclaimer
-⚠️ FUTA is Functionally Useless™ for a reason.
+⚠️ FUTA is Functionally Useless for a reason.
 We are not responsible for:
-
-Loss of sanity 🧠
-
-Corrupted terminal sessions 💀
-
-Existential crises brought on by the AI sounding smarter than you 🤖🧘
-
-Accidentally deleting your $HOME folder 💣
+- Loss of sanity 🧠
+- Corrupted terminal sessions 💀
+- Existential crises brought on by the AI sounding smarter than you 🤖🧘
+- Accidentally deleting your $HOME folder 💣
 
 🧙‍♂️ Use Cases (??)
 💁 When you want to look like you're working, but actually you're LARPing as a sysadmin
