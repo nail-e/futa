@@ -14,4 +14,3 @@ echo "Installing Python dependencies..."
 sudo pip install . --break-system-package --root-user-action ignore
 
 echo "Installation complete. futa has been set up!"
-
