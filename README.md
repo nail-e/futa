@@ -1,5 +1,6 @@
 # futa: F(unctionally) Useless Terminal Assistant
 Powered by qwen3!
+
 **WARNING: Please don't use futa irresponsibly. It's highly recommended to run futa on a VM just because of the unpredictability of the commands it generates.**
 
 💩 Are you tired of knowing what you're doing in the terminal? Want to add ✨chaos✨ to your workflow?
