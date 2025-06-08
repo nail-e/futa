@@ -1,7 +1,21 @@
 [build-system]
-requires = ["setuptools", "wheel"]
+requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "futa"
 version = "0.1.0"
+description = "Futa CLI"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+futa = "futa.cli:main"
+
+[tool.setuptools.package-data]
+"futa" = ["denials.txt"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+include-package-data = true
