@@ -39,10 +39,9 @@ futa "make it go brrr"
 📉 Productivity? Never heard of her
 
 🧨 Installation
-bash
-Copy
-Edit
-pip install futa  # or don't. You probably shouldn't.
+1. git clone github.com/nail-e/futa
+2. Run the install script
+
 🚧 Disclaimer
 ⚠️ FUTA is Functionally Useless for a reason.
 We are not responsible for:
