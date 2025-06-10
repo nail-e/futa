@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/github/license/nail-e/futa)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nail-e/futa)
-![GitHub all releases downloads](https://img.shields.io/github/downloads/nail-e/futa/total)
+
 
 Are you tired of knowing what you're doing in the terminal? Want to add ✨AI✨ to your Linux install?
 
@@ -17,7 +17,9 @@ Because why just type ls when you can launch a rocket 🚀 of AI processing to t
 Embrace the nonsense. Run futa. Let the AI cook. 🍳🤌💻
 
 ## Usage
-`futa "<command>"`
+```sh
+futa "<command>"
+```
 
 ## Installation
 1. git clone github.com/nail-e/futa
