@@ -1,5 +1,5 @@
 # futa: Functionally Useless Terminal Assistant
-(Sorry for the copious amounts of AI below)
+_(Sorry for the copious amounts of AI below)_
 
 **WARNING: Please don't use futa irresponsibly. It's highly recommended to run futa on a VM just because of the unpredictability of the commands it generates.**
 
